@@ -18,7 +18,7 @@ Clone the repository to your web server's root directory:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Retr0Grade-Music-Touring.git
+git clone https://github.com/VOID-001/Retr0Grade-Music-Touring.git
 Import the SQL file (database.sql) into your MySQL database to create the necessary tables and relationships.
 Configure the database connection in the config.php file by providing your MySQL database credentials.
 
